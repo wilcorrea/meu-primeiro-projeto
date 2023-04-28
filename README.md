@@ -1,3 +1,5 @@
+Alguma coisa aleatória
+
 # Orientações Gerais
 
 A sala de aula deve ser um ambiente totalmente seguro e o respeito deve ser prioridade entre todos. Dentro da sala de aula serão tratados apenas recorrentes ao curso e ao aprendizado.
